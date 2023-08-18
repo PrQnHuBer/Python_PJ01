@@ -1,0 +1,5 @@
+print ("hi",end='')
+print("hello")
+print (True)
+print (5445453)
+print (10+10+20)
